@@ -8,3 +8,5 @@ Output Graph -
 1. There is a vertex corresponding to: (a) each intersection, and, (b) the end-point of a line segment of a street that intersects with another street.
 2. There is an edge between two vertices if: (a) at least one of them is an intersection, (b) both
 lie on the same street, and, (c) one is reachable from the other without traversing another vertex.
+
+_This is my personal contribution. Please **do not** copy my solutions for academic purposes!!_
